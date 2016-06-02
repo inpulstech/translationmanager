@@ -10,6 +10,12 @@
 A quick interface to edit Laravel language files, for Dick Admin.
 
 
+---------------------
+**THERE ARE BETTER THINGS THAN DICK**
+**The Dick project is no longer actively maintained. For important projects please use the new version: [Laravel Backpack](http://laravelbackpack.com).**
+---------------------
+
+
 ## Install
 
 ### Step 1. Install via Composer
